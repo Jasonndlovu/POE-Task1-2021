@@ -1,0 +1,48 @@
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.exe
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.deps.json
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.dll
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+G:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.pdb
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csprojAssemblyReference.cache
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.dll
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.pdb
+G:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csprojAssemblyReference.cache
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.dll
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.pdb
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.exe
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.deps.json
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.dll
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+D:\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.pdb
+D:\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csprojAssemblyReference.cache
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.dll
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.pdb
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.exe
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.deps.json
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.dll
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+G:\school usb\Prog 2A\Assignment\Task 1\bin\Debug\net5.0\Task 1.pdb
+G:\school usb\Prog 2A\Assignment\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
